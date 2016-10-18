@@ -11,8 +11,8 @@
 * lock                          3D-printed                                                             1
 * M4 16mm screw                 hardware                                                               6
 * M4 nut                        hardware                                                               6
-* #4 1/2" machine screw         hardware                                                               8
-* 2/10" x 1/8" magnet           hardware                                                               3
+* #4 1/2" machine screw         hardware                                                               8
+* 2/10" x 1/8" magnet           hardware          http://www.kjmagnetics.com/proddetail.asp?prod=DH22  3
 * 3/32" diameter pin 58mm long  hardware                      try AceHardware batt insulation hangers  1
 * MS brick-shaped Dock          electronics                                                            1
 
