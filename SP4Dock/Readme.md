@@ -1,4 +1,4 @@
-## V2 3-in-1 Dock for the Surface Pro 4 and Surface Pro 3
+## 3-in-1 Dock for the Surface Pro 4 and Surface Pro 3 v2
 ### DIY Guide: https://blogs.msdn.microsoft.com/danchar/2016/10/20/surface-pro-4-surface-pro-3-diy-vesa-mounted-docking-station-v2/
 ### Bill of materials:
 
